@@ -369,7 +369,6 @@ main {
   background-color: #F6F6F6;
   display: flex;
   width: 1200px;
-  gap: 10rem;
 }
 .pets__card-content {
   display: flex;
